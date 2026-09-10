@@ -1,7 +1,7 @@
 # Información
-- Nombre:
-- No. Control:
-- Grupo: 
+- Nombre: Eric Domenzain Morales
+- No. Control: 1213100019
+- Grupo: GTI174
 
 ## Especificaciones del proyecto
 | nombre del proyecto | Framework | versión |
@@ -24,3 +24,6 @@ Para que la aplicación funcione se necesitan las siguientes variables:
 - [Eric Domenzain](https://github.com/edomenzain)
 
 <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3xdgj7v9vhogcr37ar7b.png" width="100%" align="center">
+
+## Descripción general
+El objetivo del proyecto es comprender GIT
